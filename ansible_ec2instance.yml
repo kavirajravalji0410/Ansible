@@ -32,6 +32,6 @@
         state: directory
         mode: '0755'
       with_items:
-		    - /etc/systemd/system/test.service
+        - /etc/systemd/system/test.service
         - /etc/httpd/conf
         - /var/www/html/testproject
